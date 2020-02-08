@@ -66,4 +66,4 @@ def main():
     print(bh.delMin())
     print(bh.delMin())
 
-main()
+#main()
